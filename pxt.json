@@ -9,7 +9,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "erweiterung.ts"
+        "pxt-grove-mp3-v3.ts"
     ],
     "testFiles": [
         "test.ts"
