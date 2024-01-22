@@ -1,5 +1,5 @@
 {
-    "name": "erweiterung",
+    "name": "pxt-grove-mp3-v3-mc6",
     "description": "",
     "dependencies": {
         "core": "*",
